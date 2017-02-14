@@ -1,2 +1,2 @@
-# Online-Resume
-A JavaScript written resume to show your skills.
+# nanodegree-project2
+Frontend nanodegree resume
